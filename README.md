@@ -4,7 +4,7 @@ this is my second repo in git
 hi 
 <b> rakshita </b>
 <br>
-#include<tdio.h> <br>
+#include<stdio.h> <br>
 void main()<br>
 {<br>
 printf("hello word");<br>
