@@ -3,7 +3,7 @@ this is my second repo in git
 <br>
 hi 
 <b> rakshita </b>
-<t6><b><br> abcdefgh </t6>
+<t6><b><br> abcdefgh </t6><br>
 #include<tdio.h> <br>
 void main()<br>
 {<br>
