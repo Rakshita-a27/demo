@@ -2,7 +2,7 @@
 this is my second repo in git
 <br>
 hi 
-<b> rakshita </b>
+<b> rakshita awaji </b>
 <br>
 #include<stdio.h> <br>
 void main()<br>
